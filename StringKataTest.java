@@ -5,6 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
+
 public class StringCalculatorTest 
 {
     private void testAdd(final String input, final int expectedOutput) {
