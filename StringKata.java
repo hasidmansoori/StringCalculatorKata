@@ -7,6 +7,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+
 public class StringCalculator
 {
     private static final String BETWEEN_SQUARE_BRACES = "\\[(.*?)\\]";
