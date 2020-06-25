@@ -1,1 +1,1 @@
-# StringCalculatorKata 
+# StringCalculatorKata
